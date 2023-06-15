@@ -5,3 +5,4 @@ yarn.lock
 *.log
 *audit.json
 *.log.*
+.vercel
